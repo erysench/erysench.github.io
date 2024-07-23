@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erysench.github.io/sitemap
+Sitemap: https://erysench.github.io/app/sitemap
+Sitemap: https://erysench.github.io/assets/sitemap
+Sitemap: https://erysench.github.io/css/sitemap
+Sitemap: https://erysench.github.io/includes/sitemap
+Sitemap: https://erysench.github.io/item/sitemap
+Sitemap: https://erysench.github.io/src/sitemap
